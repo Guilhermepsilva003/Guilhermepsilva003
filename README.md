@@ -1,7 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou Guilherme Pereira</h1>
 <h3 align="center">SENAC PE | Análise e Desenvolvimento de Sistemas | 1ª Período </h3>
 
-- 🚀 Atualmente estou aprendendo: <strong>Javascript, HTML, CSS e Python,.</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Javascript, HTML, CSS e Python,.</strong>
+- 🚀 Algumas ferramentas que utilizo: <strong> VSCode, MySQL, FIGMA e Python,.</strong>
 - 📣 Nós podemos falar em: <strong>Português/BR e Inglês/EN</strong>
 
 <h3 align="left">Conecte-se comigo:</h3>
