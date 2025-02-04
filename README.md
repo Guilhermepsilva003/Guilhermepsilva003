@@ -2,7 +2,7 @@
 <h3 align="center">SENAC PE | Análise e Desenvolvimento de Sistemas | 1ª Período </h3>
 
 - 🚀 Atualmente estou aprendendo: <strong>Java, Javascript e SQL.</strong>
-- 🚀 Algumas ferramentas que utilizo: <strong> VSCode, MySQL e FIGMA.</strong>
+- 🚀 Algumas ferramentas que utilizo: <strong> VSCode, IntelliJ, MySQL e FIGMA.</strong>
 - 📣 Nós podemos falar em: <strong>Português/BR e Inglês/EN</strong>
 
 <h3 align="left">Conecte-se comigo:</h3>
